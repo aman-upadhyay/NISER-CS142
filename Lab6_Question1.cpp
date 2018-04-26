@@ -93,7 +93,6 @@ class SLL
 	   return s; 
    }
    
-   //1711140
    
 	
 	
@@ -144,7 +143,6 @@ int binarySearch(int *L,int x, int first, int last)
   return -1;    // failed to find key
 }
 
-//1711140
 
 //this function implements binaryserch of linked list through array
 int binSrcLL(SLL l, int key)
