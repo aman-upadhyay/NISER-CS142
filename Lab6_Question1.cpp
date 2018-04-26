@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-//1711140
 /*
 Implement Binary search function. Include:
 1. Function that takes in array, size of array and element to be searched. Returns the index of the array where the element is found or -1 if the element is not found. 
