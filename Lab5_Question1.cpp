@@ -7,7 +7,7 @@ Write a class for Bubble sort. It should include:
 */
 
 
-//171140
+//1711017
 class node
 {
  public:
@@ -16,7 +16,6 @@ class node
 };
 
 //USUAL LINKED LIST STUFFS  
-//171140
 class linkedList
 {
  public:
@@ -54,7 +53,7 @@ class linkedList
   }
  }
 };
-//171140
+//1711017
 
 
 //HERE I HAVE TAKEN AN ARRAY THROUGH THE HELP OF A CLASS 
@@ -78,7 +77,7 @@ class array
       }
     }
 };
-//171140
+//1711017
 
 class BUBBLESORT
 {
@@ -101,7 +100,7 @@ class BUBBLESORT
    }
     return arr;   
   }
-  //171140
+  //1711017
   
   //TO TEST THE FUNCTIONING OF THE BUBBLESORTING OF AN ARRAY
   void testarr()
@@ -121,7 +120,7 @@ class BUBBLESORT
     ANEW.display();
   }
   
-  //171140
+  //1711017
   
   //HERE IS THE BUBBLESORT FUNCTION FOR LINKED LIST
   node* bubblesortLL(node* head, node* tail, int size)
